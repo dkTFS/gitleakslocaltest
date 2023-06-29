@@ -1,6 +1,6 @@
 #some algorithm generated generic API keys, GitLeaks should pick these up
 
-key = "01bf9eea-adrz-7140-ryd1-221383c116ed"
+key = "11bf9eea-adrz-7140-ryd1-221383c116ed"
 
 
 generic64 = "wO34F8tSNoyfnHJatL8L7SYXubopkSJL1PqF6yddHzlx6Rh21iCLERe0eJYxXTJi"
